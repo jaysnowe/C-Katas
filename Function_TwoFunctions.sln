@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function_TwoFunctions", "Function_TwoFunctions\Function_TwoFunctions.csproj", "{53DE2426-87D6-4D91-A551-30827EE6288F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DE2426-87D6-4D91-A551-30827EE6288F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{53DE2426-87D6-4D91-A551-30827EE6288F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{53DE2426-87D6-4D91-A551-30827EE6288F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{53DE2426-87D6-4D91-A551-30827EE6288F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
