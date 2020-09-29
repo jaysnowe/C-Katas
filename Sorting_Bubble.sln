@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_Bubble", "Sorting_Bubble\Sorting_Bubble.csproj", "{5534618E-0E41-4E7E-AEAE-981C4A80375C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5534618E-0E41-4E7E-AEAE-981C4A80375C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5534618E-0E41-4E7E-AEAE-981C4A80375C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5534618E-0E41-4E7E-AEAE-981C4A80375C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5534618E-0E41-4E7E-AEAE-981C4A80375C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
